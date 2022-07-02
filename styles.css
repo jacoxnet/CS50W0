@@ -1,0 +1,35 @@
+body {
+  background-color: #fff; }
+
+#glogo {
+  padding: 50px;
+  width: 60%; }
+
+.container {
+  width: 80%; }
+
+#sbox {
+  margin:10px;
+}
+
+#sbox input {
+  height: 50px;
+  font-size: 14px;
+  background-image: url("search.png");
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: left;
+  padding-left:40px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-shadow: none;
+}
+
+#sbutton {
+  height:50px;
+}
+
+.form-control {
+  border: 0;
+}
+
