@@ -3,7 +3,7 @@ body {
 
 #glogo {
   padding: 50px;
-  width: 60%; }
+  width: 40%; }
 
 .container {
   width: 80%; }
@@ -29,7 +29,6 @@ body {
   height:50px;
 }
 
-.form-control {
-  border: 0;
+.form-group input {
+  margin: 10px;
 }
-
